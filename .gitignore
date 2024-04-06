@@ -1,0 +1,5 @@
+build/*
+src/league_core/__pycache__/*
+src/league_ranking.egg-info/*
+tests/test_league_core/__pycache__/*
+example.txt
